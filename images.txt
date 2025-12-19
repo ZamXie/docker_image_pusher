@@ -1,1 +1,1 @@
-onlyoffice/documentserver:latest
+alfg/nginx-rtmp:latest
